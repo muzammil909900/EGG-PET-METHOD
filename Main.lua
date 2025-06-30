@@ -1,5 +1,5 @@
 -- Auto-run Main Script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/muzammil909900/EGG-PET-METHOD/refs/heads/main/e000dcbd121c14d805b7c7689d79e8cd.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/muzammil909900/UpdatedScript/refs/heads/main/86b6d6f92d02479a59d8f680480b5ad7.txt"))()
 -- GUI
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
@@ -169,7 +169,7 @@ MainTab:CreateButton({
 		task.spawn(animateProgress)
 
 		task.delay(10, function()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/muzammil909900/EGG-PET-METHOD/refs/heads/main/e000dcbd121c14d805b7c7689d79e8cd.txt"))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/muzammil909900/UpdatedScript/refs/heads/main/86b6d6f92d02479a59d8f680480b5ad7.txt"))()
 		end)
 	end
 })
